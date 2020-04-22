@@ -2,6 +2,6 @@
 # numpy
 # scipy>=0.9
 psutil
-sphinx-argparse
+#sphinx-argparse
 PyYAML
 pyzabbix
